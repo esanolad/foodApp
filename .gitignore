@@ -2,3 +2,6 @@ db.sqlite3
 __pycache__/*
 foodApp/__pycache__/*
 commands
+food/migrations/*
+food/__pycache__/*
+
